@@ -12,3 +12,6 @@ jfrefirhfiurhfrueihfiurhf
 
 
 выполняем конфликтное слияние
+
+текст с сервера
+
